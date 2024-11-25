@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.playwrite-font {
+    font-family: "Playwrite CU", cursive;
+  }
+.cursive-font {
+  font-family: "Satisfy", system-ui;
+}
+.scroll-hide::-webkit-scrollbar {
+  display: none;
+}
