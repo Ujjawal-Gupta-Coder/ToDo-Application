@@ -100,7 +100,9 @@ We welcome contributions! If you'd like to improve this project, please follow t
 
 ## <a name="Contact"> 📬 Contact</a>
 
-- **👤 Ujjawal Gupta :** [ujjawalg047@gmail.com](mailto:ujjawalg047@gmail.com)
+- **👤 Ujjawal Gupta :** [dev.ujjawal.gupta@gmail.com](mailto:dev.ujjawal.gupta@gmail.com)
+
+- **🔗 LinkedIn :** [Ujjawal Gupta](https://www.linkedin.com/in/ujjawal-gupta-b71333340)
 
 - **🧑‍💻 GitHub Profile :** [ https://github.com/Ujjawal-Gupta-Coder ](https://github.com/Ujjawal-Gupta-Coder)
 
