@@ -100,7 +100,7 @@ We welcome contributions! If you'd like to improve this project, please follow t
 
 ## <a name="Contact"> 📬 Contact</a>
 
-- **🔗 LinkedIn :** [Ujjawal Gupta](https://www.linkedin.com/in/ujjawal-gupta-b71333340)
+- **🔗 LinkedIn :** [Ujjawal Gupta](https://www.linkedin.com/in/ujjawal-gupta-dev)
 
 - **🧑‍💻 GitHub Profile :** [ https://github.com/Ujjawal-Gupta-Coder ](https://github.com/Ujjawal-Gupta-Coder)
 
