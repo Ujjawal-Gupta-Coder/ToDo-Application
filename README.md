@@ -1,7 +1,9 @@
 <div align="center">
-    <img src="./screenshots/Screenshot 1.png" width="1200" alt="Project Cover Image">
+    <a href="https://to-do-application-wine.vercel.app/" target="_blank">
+          <img src="./screenshots/Screenshot 1.png" width="1200" alt="Project Cover Image">
+    </a>
 
-# ToDo Application
+# [ToDo Application](https://to-do-application-wine.vercel.app/)
 </div>
 This to-do application helps users stay organized by providing an easy-to-use interface for managing daily tasks. It supports CRUD operations, task completion tracking with a simple check button, and automatically saves tasks using local storage, ensuring data is never lost. The app is responsive, working seamlessly across devices, and features a "Clear All" button for decluttering your task list.
 
@@ -101,6 +103,8 @@ We welcome contributions! If you'd like to improve this project, please follow t
 ## <a name="Contact"> 📬 Contact</a>
 
 - **🔗 LinkedIn :** [Ujjawal Gupta](https://www.linkedin.com/in/ujjawal-gupta-dev)
+
+- **🚀 Live Demo :** [Project Link](https://to-do-application-wine.vercel.app/)
 
 - **🧑‍💻 GitHub Profile :** [ https://github.com/Ujjawal-Gupta-Coder ](https://github.com/Ujjawal-Gupta-Coder)
 
