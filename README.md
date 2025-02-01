@@ -5,6 +5,9 @@
 
 # [ToDo Application](https://to-do-application-wine.vercel.app/)
 </div>
+
+🌟 Experience the full functionality of this project by exploring the [Live Demo](https://to-do-application-wine.vercel.app/). Click the link to see it in action and enjoy!
+
 This to-do application helps users stay organized by providing an easy-to-use interface for managing daily tasks. It supports CRUD operations, task completion tracking with a simple check button, and automatically saves tasks using local storage, ensuring data is never lost. The app is responsive, working seamlessly across devices, and features a "Clear All" button for decluttering your task list.
 
 ## 📋 <a name="table">Table of Contents</a>
